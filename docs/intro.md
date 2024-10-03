@@ -1,7 +1,7 @@
 # Welcome to GitHub Actions for Scientific Data Workflows
 
 
-Tutorial presented at [SciPy 2024 Conference](https://www.scipy2024.scipy.org/)
+Tutorial presented at [US-RSE'24 Conference]([https://www.scipy2024.scipy.org/](https://us-rse.org/usrse24/program/tutorials/#github-actions-for-scientific-data-workflows)
 
 Authors: Valentina Staneva, Quinn Brencher, Scott Henderson
 
