@@ -42,7 +42,7 @@ Participants can make edits from the GitHub interface, but if they are willing t
 
 ### Long Version (with approximate schedule)
 * Overview of GitHub Actions and Workflows and their popular uses in Python software development (examples of testing, listing, 
-packaging)(15 min)
+packaging) (15 min)
 	* We will explain the main components of GitHub Actions and associated terminology
 	* We will summarize their typical uses in software development 
 	* We will point to popular GitHub Actions used in Python software development and packaging (the focus of this tutorial will not be 
@@ -65,7 +65,7 @@ on them but rather on scientific pipelines)
 	* they will modify the code to make a new plot which will be automatically updated
 	* they will use either matplotlib or an interactive library such as plotly
 
-* Break (15 min)
+* Break (30 min)
 
 * Large-scale data processing (45 min)
 	* we will demonstrate a use-case of processing large data sets with GitHub Actions
