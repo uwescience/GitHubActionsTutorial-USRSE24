@@ -42,7 +42,7 @@ Participants can make edits from the GitHub interface, but if they are willing t
 
 ### Long Version (with approximate schedule)
 * Overview of GitHub Actions and Workflows and their popular uses in Python software development (examples of testing, listing, 
-packaging)(20 min)
+packaging)(15 min)
 	* We will explain the main components of GitHub Actions and associated terminology
 	* We will summarize their typical uses in software development 
 	* We will point to popular GitHub Actions used in Python software development and packaging (the focus of this tutorial will not be 
@@ -56,9 +56,7 @@ on them but rather on scientific pipelines)
 	* we will deploy a typical scientific workflow: reading data, converting to a new format, and making a visualization
 	* participants will update the deployment schedule to trigger a new workflow and will monitor the progress in the GitHub interface
 
-* Break (15 min)
-
-* Exporting results (30 min)
+* Exporting results (25 min)
 	* participants will learn about various ways to store the results: 
 		* caching
 		* committing to GitHub
@@ -67,24 +65,24 @@ on them but rather on scientific pipelines)
 	* they will modify the code to make a new plot which will be automatically updated
 	* they will use either matplotlib or an interactive library such as plotly
 
-* Update results on a webpage (30 min)
-	* we will overview different ways to display scientific results on a webpage
-	* we will demonstrate the workflow to deploy the webpage 
-	* participants will rerender the webpage based on the updates in GitHub
+* Break (15 min)
 
 * Large-scale data processing (45 min)
 	* we will demonstrate a use-case of processing large data sets with GitHub Actions
 	* participants will fiddle with problem size to understand the power and limits of the computational infrastructure
 	* we will discuss connections to cluster/cloud computing
 
-* Break (10 min)
+* Update results on a webpage (30 min)
+	* we will overview different ways to display scientific results on a webpage
+	* we will demonstrate the workflow to deploy the webpage 
+	* participants will rerender the webpage based on the updates in GitHub
 
-* Model Versioning and Benchmarking (20 min) 
+* Model Versioning and Benchmarking (10 min) 
 	* we will introduce how to leverage GitHub’s version control to version different models and performance
 	* participants can contribute a new model and check its performance
 	* we will discuss how this can be used as a community network to share methods and results
 
-* Recap and Discussion (or buffer time)  (20 min)
+* Recap and Discussion (or buffer time)  (5 min)
 	* we will have a discussion on potential uses of GitHub Actions within the work of the participants
 
 
