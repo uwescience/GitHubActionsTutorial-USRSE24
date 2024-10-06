@@ -65,7 +65,7 @@ on them but rather on scientific pipelines)
 	* they will modify the code to make a new plot which will be automatically updated
 	* they will use either matplotlib or an interactive library such as plotly
 
-* Break (15 min)
+* Break (30 min)
 
 * Large-scale data processing (45 min)
 	* we will demonstrate a use-case of processing large data sets with GitHub Actions
