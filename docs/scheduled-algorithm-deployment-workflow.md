@@ -4,7 +4,7 @@
 
 Next, we will demonstrate how GitHub Actions can be used to display a spectrogram for a segment from an underwater audio stream.
 
-Spectrogram Visualization Workflow: [`.github/workflows/noise_processing.yml`](https://github.com/uwescience/SciPy2024-GitHubActionsTutorial/blob/main/.github/workflows/noise_processing.yml)
+Spectrogram Visualization Workflow: [`.github/workflows/noise_processing.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/noise_processing.yml)
 
 Workflow Steps:
 
@@ -17,6 +17,6 @@ Workflow Steps:
 * Upload the `.png` files to GitHub 
 
 After the workflow is executed `psd.png` and `broadband.png`files are updated in the repo and are visualized below.
-![alt text](https://raw.githubusercontent.com/uwescience/SciPy2024-GitHubActionsTutorial/main/ambient_sound_analysis/img/psd.png)
+![alt text](https://raw.githubusercontent.com/uwescience/GitHubActionsTutorial-USRSE24/main/ambient_sound_analysis/img/psd.png)
 
-![alt text](https://raw.githubusercontent.com/uwescience/SciPy2024-GitHubActionsTutorial/main/ambient_sound_analysis/img/broadband.png)
+![alt text](https://raw.githubusercontent.com/uwescience/GitHubActionsTutorial-USRSE24/main/ambient_sound_analysis/img/broadband.png)
