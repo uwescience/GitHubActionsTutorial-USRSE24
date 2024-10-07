@@ -7,9 +7,9 @@ We saw it is pretty easy to continuously update results on the Readme of the rep
 
 We will demonstrate the scenario of converting a Jupyter Notebook to a webpage. 
 
-Notebook: [`plot_noise_levels.ipynb`](https://github.com/uwescience/SciPy2024-GitHubActionsTutorial/blob/main/ambient_sound_analysis/plot_noise_levels.ipynb)
+Notebook: [`plot_noise_levels.ipynb`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/ambient_sound_analysis/plot_noise_levels.ipynb)
 
-Create Website with Spectrogram Workflow: [`.github/workflows/create_website_spectrogram.yml`](https://github.com/uwescience/SciPy2024-GitHubActionsTutorial/blob/main/.github/workflows/create_website_spectrogram.yml)
+Create Website with Spectrogram Workflow: [`.github/workflows/create_website_spectrogram.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_spectrogram.yml)
 
 
 The process consists of the following stages:
@@ -25,7 +25,7 @@ The process consists of the following stages:
 
 The website can be found here:
 
-[https://uwescience.github.io/SciPy2024-GitHubActionsTutorial/plot\_noise\_levels.html](https://uwescience.github.io/SciPy2024-GitHubActionsTutorial/plot_noise_levels.html)  
+[https://uwescience.github.io/GitHubActionsTutorial-USRSE24/plot\_noise\_levels.html](https://uwescience.github.io/GitHubActionsTutorial-USRSE24/plot_noise_levels.html)  
 
 
 The procedure is set up to run on `push` thus every time the notebook is updated the website is updated. 
