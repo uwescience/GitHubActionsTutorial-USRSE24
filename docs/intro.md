@@ -87,6 +87,7 @@ on them but rather on scientific pipelines)
 
 
 # References
+* [Tutorial Slides](https://docs.google.com/presentation/d/1brXVUg-1e8_XxfYxGMWciB5UCtqXhDtocSV3WR5m49w)
 * [*GitHub Actions for Scientific Data Workflows*](https://github.com/valentina-s/GithubActionsTutorial-USRSE23), Valentina Staneva, 
 [US-RSE 2023 Tutorial](https://us-rse.org/usrse23/program/tutorials/) 
 * [*Characterizing glacial lake outburst flood hazard at regional scale using fused InSAR-speckle tracking surface displacement time 
