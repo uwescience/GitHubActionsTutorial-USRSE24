@@ -2,6 +2,7 @@ name: Model Benchmarking
 on:
   # pull_request:
   #   types: [opened, synchronize, edited, reopened]
+  workflow_dispatch:
 
 env:
   pr_username: github.event.pull_request.user.login
