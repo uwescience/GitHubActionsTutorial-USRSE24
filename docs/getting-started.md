@@ -19,7 +19,7 @@ All workflow configurations are stored in the [`.github/workflows`](https://gith
 8. [`create_website_spectrogram.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_spectrogram.yml)
 9. [`create_website_myfigure.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_myfigure.yml)
 10. [`model_benchmarking.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/model_benchmarking.yml)
-11. [`create_website_benchmarks`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_benchmarks.yml)
+11. [`create_website_benchmarks.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_benchmarks.yml)
  
 
 
