@@ -32,8 +32,7 @@ gh run download
 
 The workflow run also provides a publicly available link to the download artifact:
 
-Artifact download URL: [`https://github.com/uwescience/SciPy2024-GitHubActionsTutorial/actions/runs/9591972369/artifacts/1619380017`](https://github.com/uwescience/SciPy2024-
-GitHubActionsTutorial/actions/runs/9591972369/artifacts/1619380017)
+Artifact download URL: [`https://github.com/uwescience/GitHubActionsTutorial-USRSE24/actions/runs/11204894444/artifacts/2021247787`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/actions/runs/11204894444/artifacts/2021247787)
 
 There is a `download-artifact` action to download the artifacts and share between jobs within a workflow run (note this is limited to the individual workflow run, for downloading across runs use the other options).
 
