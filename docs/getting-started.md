@@ -13,13 +13,13 @@ All workflow configurations are stored in the [`.github/workflows`](https://gith
 1. [`python_env.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/python_env.yml)
 2. [`conda_env.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/conda_env.yml)
 3. [`noise_processing.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/noise_processing.yml)
-4. [`create_website_spectrogram.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_spectrogram.yml)
-5. [`create_website.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website.yml)
-6. [`batch_image_correlation.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/batch_image_correlation.yml)
-7. [`image_correlation_pair.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/image_correlation_pair.yml)
-8. [`summary_statistics.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/summary_statistics.yml)
-9. [`model_benchmarking.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/model_benchmarking.yml)
-10. [`create_website_benchmarks`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_benchmarks.yml)
+5. [`batch_image_correlation.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/batch_image_correlation.yml)
+6. [`image_correlation_pair.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/image_correlation_pair.yml)
+7. [`summary_statistics.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/summary_statistics.yml)
+8. [`create_website_spectrogram.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_spectrogram.yml)
+9. [`create_website_myfigure.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_myfigure.yml)
+10. [`model_benchmarking.yml`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/model_benchmarking.yml)
+11. [`create_website_benchmarks`](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/create_website_benchmarks.yml)
  
 
 
