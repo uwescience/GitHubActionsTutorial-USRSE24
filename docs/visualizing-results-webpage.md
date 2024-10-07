@@ -38,9 +38,15 @@ The notebook does not display any code which is conventient for showing results 
 
 
 
-Other ways: 
+Other ways to build webpages: 
 
-* [Jupyterbook](https://jupyterbook.org/en/stable/publish/gh-pages.html)
+* [Jupyterbook](https://jupyterbook.org/en/stable/publish/gh-pages.html): [deploy-book.yml](https://github.com/uwescience/GitHubActionsTutorial-USRSE24/blob/main/.github/workflows/deploy-book.yml)
+* [Quarto](https://quarto.org/): [quarto-actions](https://github.com/quarto-dev/quarto-actions)
 * [Readthedocs](https://about.readthedocs.com/?ref=readthedocs.com)
-* Jekyll template 
-* Dashboard
+* [Jekyll Theme](https://jekyllrb.com/): [example with D3](https://uwescience.github.io/DSSG2016-UnsafeFoods/)
+* Dashboards: [Dash](https://plotly.com/dash/), [Panel](https://panel.holoviz.org/)
+  
+
+Integrating interactive visualizations:
+* [Plotly->html](https://plotly.com/python/interactive-html-export/)-> embed in website
+* [D3 -> data in json/csv](https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js) -> embed in website
